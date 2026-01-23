@@ -1,0 +1,8 @@
+{
+    "name": "ali tamvan sekali",
+    "description": "HexatedRepo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/modegalau657-lgtm/cloudstream-extensions-sofie/blob/master/plugins.json"
+    ]
+}

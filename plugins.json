@@ -252,7 +252,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 46,
+        "version": 47,
         "internalName": "KuramanimeProvider",
         "url": "https://raw.githubusercontent.com/Sofie99/cloudstream-extensions-sofie/builds/KuramanimeProvider.cs3",
         "name": "KuramanimeProvider"
